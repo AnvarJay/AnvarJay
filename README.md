@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnvarJay
+- 👋 Hi, I’m @Jay
 - 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning Deluge
 - 💞️ I’m looking to collaborate on python
